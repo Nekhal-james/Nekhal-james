@@ -6,7 +6,7 @@
 **B.Tech Computer Science (AI) @ SJCET Palai**
 
 [![Email](https://img.shields.io/badge/Connect-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nekhaljames2028@ct.sjcetpalai.ac.in) 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nekhal-james-b99895327/) 
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nekhal-james/)) 
 [![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nekhal-james)
 
 ---
