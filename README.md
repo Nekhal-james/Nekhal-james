@@ -1,10 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=220&section=header&text=Nekhal%20James&fontSize=65&fontColor=fff&animation=fadeIn&desc=Hardware%20Architecture%20|%20Edge%20AI%20|%20Systems%20Dev&descAlign=50&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=250&section=header&text=Nekhal%20James&fontSize=70&fontColor=fff&animation=fadeIn)
 
 <div align="center">
 
-### 🌌 Engineering the interface between Silicon and Intelligence 
-[cite_start]**B.Tech Computer Science (AI) @ SJCET Palai** [cite: 4, 15]
-[cite_start]*Kottayam, Kerala* [cite: 2]
+## 🛠️ Hardware Architecture | Edge AI | Systems Dev
+**B.Tech Computer Science (AI) @ SJCET Palai**
 
 [![Email](https://img.shields.io/badge/Connect-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nekhaljames2028@ct.sjcetpalai.ac.in) 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nekhal-james-b99895327/) 
@@ -13,7 +12,10 @@
 ---
 
 ### 🔭 Professional Profile
-[cite_start]I am a builder focused on bridging the gap between **low-level hardware architecture** and **high-level AI systems**[cite: 4, 6]. I specialize in creating resilient, fault-tolerant software for extreme environments, ranging from aerospace data management to decentralized agricultural marketplaces. [cite_start]I thrive on solving emerging problems by rapidly learning and deploying new technical frameworks[cite: 5].
+I am a developer focused on bridging the gap between **low-level hardware architecture** and **high-level AI systems**. I specialize in creating resilient, fault-tolerant software for extreme environments, ranging from aerospace data management to decentralized agricultural marketplaces. 
+
+### 💡 Core Philosophy: Adaptive Learning
+I treat every technical roadblock as a curriculum. My portfolio is a testament to my ability to **learn and deploy new technologies on the fly**—whether it’s mastering **Rust** for system-level stability or **TypeScript** for modern full-stack deployments as new problems arise.
 
 </div>
 
@@ -21,33 +23,33 @@
 
 ### 🛠️ Technical Ecosystem
 
-| **Level** | **Technologies** |
+| **Category** | **Technologies & Frameworks** |
 | :--- | :--- |
-| **System & Low-Level** | `Rust` `C` `C++` `RISC-V Assembly` `Fault-Tolerant Design` |
-| **AI & Vision** | `YOLOv8` `OpenCV` `Google AI Studio` `Generative AI` |
-| **Edge & Hardware** | `Raspberry Pi 5` `ESP32` `Arduino` `Mini E-ATV Systems` |
-| **Networking & DB** | `Eclipse Zenoh (QUIC)` `RocksDB` `Delay-Tolerant Networking (DTN)` |
-| **Full Stack** | `TypeScript` `Next.js` `Java` `Python` |
+| **Systems & Low-Level** | `Rust` `C` `C++` `RISC-V Assembly` `Fault-Tolerant Design` |
+| **Intelligence & Vision** | `YOLOv8` `OpenCV` `Google AI Studio` `Generative AI` |
+| **Hardware & IoT** | `Raspberry Pi 5` `ESP32` `Arduino` `Mini E-ATV Systems` |
+| **Data & Networking** | `Eclipse Zenoh (QUIC)` `RocksDB` `Delay-Tolerant Networking (DTN)` |
+| **Software Engineering** | `TypeScript` `Next.js` `Java` `Python` |
 
 ---
 
-### 🚀 Featured Deployments
+### 🚀 Featured Projects
 
 #### 🛰️ **SpaceOrb Node (V7.6)**
 An aerospace-grade data "brain" designed for orbital edge nodes. 
-- **Core:** Built with **Rust** for deterministic survival in zero-human-intervention environments.
-- **Security:** AES-256-GCM encryption with hardware-level crash consistency.
-- **Intelligence:** Integrated sandboxed **YOLOv8** inference for orbital telemetry.
+- **Deterministic Survival:** Built with **Rust** for environments with zero human intervention and 90-minute blackouts.
+- **Resilient Security:** AES-256-GCM encryption with hardware-level crash consistency.
+- **Sandboxed AI:** Integrated **YOLOv8** inference executed inside kernel-hardened Linux cgroups.
 
 #### 🚜 **FarmGrid**
-A full-stack ecosystem connecting local farmers to buyers with a hub-network for offline support.
+A full-stack ecosystem connecting local farmers to buyers, featuring a marketplace with integrated logistics.
 
 #### ☁️ **AeroCast**
-Predictive weather modeling using historical NASA data (1985–2024) to forecast patterns for up to 10 months.
+A modern weather probability application analyzing historical NASA data (1985–2024) to predict long-term patterns.
 
 ---
 
-### 📊 Vital Signs
+### 📊 GitHub Insights
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Nekhal-james&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
@@ -57,15 +59,15 @@ Predictive weather modeling using historical NASA data (1985–2024) to forecast
 ---
 
 ### 🏆 Leadership & Recognition
-- [cite_start]**Event Coordinator, ASTHRA 10.0:** Led logistics and operations for a National Level Tech Fest[cite: 44, 45].
-- [cite_start]**NASA Space Apps 2025:** Successfully competed in the global hackathon[cite: 57].
-- **HashItUp Hackathon:** Built innovative solutions in a 24-hour national-level sprint.
-- **IEEE Mini E-ATV:** Developed hardware-software logic for electric all-terrain vehicles.
+- **Event Coordinator, ASTHRA 10.0:** Led the National Level Annual Tech Fest at SJCET Palai.
+- **NASA Space Apps Challenge 2025:** Successfully participated in the global hackathon.
+- **HashItUp National Hackathon:** Competed as part of Team NEXORA in a 24-hour sprint.
+- **IEEE Mini E-ATV 2.0:** Developed hardware-software solutions for electric vehicle competitions.
 
 ---
 
 <div align="center">
-⚡ <i>Constantly learning. Currently deep-diving into <b>Kernel-hardened Linux cgroups</b> and <b>Orbital Power Awareness</b>.</i>
+⚡ <i>Self-starter, problem solver, and constant learner.</i>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
 </div>
